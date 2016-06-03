@@ -1,0 +1,7 @@
+pok_homepage:
+    path:     /poker
+    defaults: { _controller: PokBundle:Default:index }
+
+pok_api:
+    path:	/api
+    defaults: { _controller: PokBundle:Default:index }
